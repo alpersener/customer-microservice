@@ -5,7 +5,7 @@ graduation project for university
 layered architecture
 SpringBoot
 lombok,swagger
-hibernate/jpa
+spring data jpa
 postgresql 
 restapi
 

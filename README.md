@@ -6,5 +6,6 @@ layered architecture
 SpringBoot
 lombok,swagger
 hibernate/jpa
-postgresql
+postgresql 
+restapi
 

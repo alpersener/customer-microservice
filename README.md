@@ -1,11 +1,16 @@
 # SpringBootProject
 
-# Test Project
-graduation project for university
-layered architecture
-SpringBoot
-lombok,swagger
+# Dependencies
+graduation project for university layered architecture
+lombok,
+swagger
+spring web
 spring data jpa
-postgresql 
-restapi
+postgresql
+modelmapper
+eureka server & client
+
+
+
+
 
